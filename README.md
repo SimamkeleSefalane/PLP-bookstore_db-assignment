@@ -1,4 +1,4 @@
-# PLP-bookstore_db-assignment
+
 
 ## 📚 Project Overview
 This project involves designing and implementing a relational MySQL database for a bookstore. It covers everything from schema design to table creation and sample data insertion. The goal is to enable efficient storage, retrieval, and management of data related to books, customers, orders, and shipping.
