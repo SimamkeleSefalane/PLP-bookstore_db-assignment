@@ -1,4 +1,4 @@
--- Create users
+-- Create users --
 CREATE USER 'bookstore_admin'@'localhost' IDENTIFIED BY 'admin123';
 CREATE USER 'bookstore_analyst'@'localhost' IDENTIFIED BY 'analyst123';
 

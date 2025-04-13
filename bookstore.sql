@@ -1,10 +1,9 @@
--- Drop and Create BookStoreDB -- 
+-- Create BookStoreDB -- 
 
-DROP DATABASE BookStoreDB;
 CREATE DATABASE BookStoreDB;
 USE BookStoreDB;
 
--- Step 1: Insert new publisher and lannguage
+-- Step 1: Insert new publisher and language
 INSERT INTO publisher (pub_name) VALUES ('Skyline Publishers');      
 INSERT INTO book_language (language_name) VALUES ('Afrikaans');        
 
